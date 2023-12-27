@@ -12,7 +12,7 @@
 <div style="display: inline_block">
     <img align="center" height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" height="30" width="40" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="right" height="180em" src="https://preview.redd.it/202tzgk59zi71.gif?width=640&crop=smart&auto=webp&s=19202516dc2aa6d777b6b10255d6811493917d32"/>
+    <img align="right" height="180em" alt="imagem animada" src="https://preview.redd.it/202tzgk59zi71.gif?width=640&crop=smart&auto=webp&s=19202516dc2aa6d777b6b10255d6811493917d32"/>
 </div><br>
 
 ##
